@@ -1,0 +1,5 @@
+binar\steps\commonStep.class
+binar\steps\loginStep.class
+binar\pages\loginPage.class
+binar\pages\homePage.class
+binar\runners\testRunner.class
